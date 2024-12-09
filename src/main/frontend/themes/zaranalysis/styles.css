@@ -16,6 +16,6 @@
       --lumo-shade-90pct: hsla(214, 14%, 17%, 0.9);
       --lumo-body-text-color: hsla(214, 0%, 7%, 0.94);
       --lumo-primary-text-color: hsl(214, 0%, 0%);
---lumo-font-family: Poppins;
+      --lumo-font-family: Poppins;
 
     }
